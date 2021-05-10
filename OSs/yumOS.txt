@@ -1,0 +1,6 @@
+Fedora
+"CentOS Linux"
+"Debian GNU/Linux"
+openSUSE
+"openSUSE Leap"
+

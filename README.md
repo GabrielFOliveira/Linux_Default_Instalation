@@ -1,2 +1,5 @@
 # Linux_Default_Instalation
- Codigo desenvolvido para padronizar instalação inicial de um Linux
+
+ Codigo para padronizar instalação inicial de um Linux.
+
+Desenvolvido em 2019 por Gabriel França de Oliveira

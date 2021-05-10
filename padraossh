@@ -1,0 +1,10 @@
+Port 49999
+ListenAddress 0.0.0.0
+Protocol 2
+LoginGraceTime 20s
+PermitRootLogin yes
+MaxAuthTries 3
+GSSAPIAuthentication no
+X11Forwarding no
+MaxStartups 3:80:7
+UseDNS no
